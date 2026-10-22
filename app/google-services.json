@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078261622750",
+    "project_id": "merchant-order-3330c",
+    "storage_bucket": "merchant-order-3330c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078261622750:android:6ebd16162e97981fc0df4f",
+        "android_client_info": {
+          "package_name": "com.stargroup.merchantorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqELr0AB0MeU7PSyX3WCxserA_scWKDoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
